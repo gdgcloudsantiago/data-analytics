@@ -1,12 +1,12 @@
 <img src="https://avatars1.githubusercontent.com/u/48249676?s=200&v=4" alt="Google Cloud Platform logo" title="Google Cloud Platform" align="right" height="96" width="96"/>
 
-# GDG Cloud Santiago - Grupo de Estudio de Data Analytics
+# GDG Cloud Santiago
 
 ## Si aún no lo has hecho, síguenos en todas nuestras páginas, grupos y redes que tenemos para ti!
 
 - Suscríbete a nuestro canal en Youtube: https://www.youtube.com/gdgcloudsantiago
 - Regístrate en GDG Community para no perderte ninguno de nuestros eventos: https://gdg.community.dev/gdg-cloud-santiago-de-chile
-- Únete a nuestro Grupo de estudio de Whatsapp de Data Analytics: [https://chat.whatsapp.com/H9d2J4BWiwD5LrL4GZosyQ](https://chat.whatsapp.com/IRlQ1PKhhqQKLa5cDw5Vdq)
+- Únete a nuestro Grupo de estudio de Whatsapp: [https://chat.whatsapp.com/H9d2J4BWiwD5LrL4GZosyQ](https://chat.whatsapp.com/IRlQ1PKhhqQKLa5cDw5Vdq)
 
 ## Además!
 
